@@ -19,7 +19,3 @@ Include this file anywhere in your HTML. Then you can do stuff like:
 If you'd still like to select the nth character, use `:nth-child()`.
 
 `.char-a` versus `.char-cap-a` doesn't account for `text-transform`; you'll have to do that yourself.
-
-## Todo
-
-* Make this usable on things with element children.
