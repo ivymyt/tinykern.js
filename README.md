@@ -1,6 +1,6 @@
 # tinykern.js
 
-Inspired by [Lettering.js](http://letteringjs.com/), this is a lightweight minimal kerning thing for the very basic use case of "this font has a some terrible pairs".
+Inspired by [Lettering.js](http://letteringjs.com/), this is a lightweight minimal kerning thing for the very basic use case of "this font has some terrible pairs".
 
 Alphanumeric characters, dashes, and hyphens can be selected with `.char-a`, or `.char-cap-a` for uppercase characters. All characters can be selected using their hex code: `.code-20`.
 
