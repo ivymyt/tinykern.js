@@ -5,7 +5,7 @@ Inspired by [Lettering.js](http://letteringjs.com/), this is a lightweight minim
 Alphanumeric characters, dashes, and hyphens can be selected with `.char-a`, or `.char-cap-a` for uppercase characters. All characters can be selected using their hex code: `.code-20`.
 
 **Q: Why?**  
-A: I like kern pairs and I cannot lie.
+A: I like kern pairs.
 
 **Q: I want something better.**  
 A: There's [kerning.js](http://kerningjs.com/) - everything you ever needed in life.
